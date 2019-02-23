@@ -7,7 +7,7 @@ By Fares
 // const yt = require('ytdl-core');
 // const prefix = ("$")
 // const child_process = require("child_process");
-// const ownerid = ('511361081894109229')
+// const ownerid = ('280749272498962432')
 // const canvas = require("canvas");
 // const fs = require('fs')
 // const moment = require("moment");
